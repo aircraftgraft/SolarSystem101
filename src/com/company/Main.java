@@ -19,7 +19,7 @@ public class Main {
 
         // adding the features for star in the solar system
         FeatureStars Facx = new FeatureStars();
-        Facx.color = green;
+        Facx.color = "green";
         Facx.size = "7y453y879";
     }
 }
