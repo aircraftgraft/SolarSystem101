@@ -16,5 +16,10 @@ public class Main {
         Xfact.color="green";
         Xfact.radius="1000000000km";
         Xfact.heat="309324934898kj";
+
+        // adding the features for star in the solar system
+        FeatureStars Facx = new FeatureStars();
+        Facx.color = green;
+        Facx.size = "7y453y879";
     }
 }
