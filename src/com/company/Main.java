@@ -21,5 +21,11 @@ public class Main {
         FeatureStars Facx = new FeatureStars();
         Facx.color = "green";
         Facx.size = "7y453y879";
+
+        // adding features for planet 2
+        Planet2 Oslo = new Planet2();
+        Oslo.color = "pink";
+        Oslo.size = "93465 cm";
+        Oslo.name = "Oslo";
     }
 }
