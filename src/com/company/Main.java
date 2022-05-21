@@ -21,5 +21,11 @@ public class Main {
         FeatureStars Facx = new FeatureStars();
         Facx.color = "green";
         Facx.size = "7y453y879";
+
+        // adding features to planet 1
+        Planet1Features GulK = new Planet1Features();
+        GulK.color = "blue";
+        GulK.size = "23768356 km";
+        GulK.name = "preacher";
     }
 }
