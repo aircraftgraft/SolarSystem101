@@ -27,5 +27,12 @@ public class Main {
         Oslo.color = "pink";
         Oslo.size = "93465 cm";
         Oslo.name = "Oslo";
+
+        // adding features to planet 1
+        Planet1Features GulK = new Planet1Features();
+        GulK.color = "blue";
+        GulK.size = "23768356 km";
+        GulK.name = "preacher";
+
     }
 }
